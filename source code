@@ -1,0 +1,5 @@
+color-detector/
+├── app.py
+├── colors.csv
+├── requirements.txt
+└── README.md   
